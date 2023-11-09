@@ -1,2 +1,2 @@
-# dsci-100-project_template
-Template project repository for DSCI-100
+# dsci-100-project_7
+Group 7 Project for DSCI100
